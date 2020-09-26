@@ -48,7 +48,7 @@ The blues1 and blues2 file are playlist1 and playlist2 respectively and can be v
 
 1. Clone the repo
 ```sh
-git clone https://github.com/boone5/AutomationBot.git
+git clone https://github.com/boone5/PlaylistTransform.git
 ```
 2. Install NPM packages
 ```sh
