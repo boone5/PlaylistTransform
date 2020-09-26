@@ -1,4 +1,5 @@
-# PlaylistTransform<!-- TABLE OF CONTENTS -->
+# PlaylistTransform
+<!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
