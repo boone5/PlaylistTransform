@@ -30,7 +30,7 @@ Designed an algorithm in python that could compute the edit distance, minimum nu
 <!--
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 --> 
-I built this project using Visual Studio Code and can be downloaded by the link below. 
+I built this project with another student at my University using Visual Studio Code: 
 * [VSCode](https://code.visualstudio.com/download)
 
 
